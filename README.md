@@ -95,7 +95,7 @@ The total estimated cost at the time of construction was approximately **43,359 
 This guide outlines the fabrication and assembly of the BactoBot prototype.
 
 ### 1. Component Fabrication
--   **3D Printing:** Using the files in `/CAD`, print all structural components(frames, motor cannister assmeblies, flagellar hooks). **PETG** is recommended.
+-   **3D Printing:** Using the files in `/CAD`, print all structural components (frames, motor cannister assmeblies, flagellar hooks). **PETG** is recommended.
 -   **Silicone Molding:** Cast **12 flexible flagella** using the 3D-printed molds. Remember to embed a rigid `Hook` at the base of each arm before the silicone cures.
 -   **Laser Cutting:** Cut **12 hexagonal faceplates** from 3mm acrylic sheet. Include 2 racks to hold the electronics inside the structure.
 
