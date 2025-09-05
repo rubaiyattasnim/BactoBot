@@ -54,7 +54,7 @@ This parallel configuration is highly effective for the primary maneuvers of for
 
 A buck converter steps down the main battery voltage to provide stable 5V power to the Arduino via its `VIN` pin.
 
-![Schematic showing two motors wired in parallel to a single driver unit. This circuit is replicated 6 times.](Documentation/bactobot_parallel_schematic.png)
+![Schematic showing two motors wired in parallel to a single driver unit. This circuit is replicated 6 times.](Documentation/bactobot_parallel_schematic.jpg)
 
 ## Bill of Materials (BOM)
 The total estimated cost at the time of construction was approximately **43,359 BDT (~$370 USD)**.
