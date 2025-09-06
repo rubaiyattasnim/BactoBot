@@ -54,7 +54,7 @@ This parallel configuration is highly effective for the primary maneuvers of for
 
 A buck converter steps down the main battery voltage to provide stable 5V power to the Arduino via its `VIN` pin.
 
-![Schematic showing two motors wired in parallel to a single driver unit. This circuit is replicated 6 times.](Documentation/bactobot_parallel_schematic.png)
+![Schematic showing two motors wired in parallel to a single driver unit. This circuit is replicated 6 times.](Documentation/bactobot_parallel_schematic.jpg)
 
 ## Bill of Materials (BOM)
 The total estimated cost at the time of construction was approximately **43,359 BDT (~$370 USD)**.
@@ -95,7 +95,7 @@ The total estimated cost at the time of construction was approximately **43,359 
 This guide outlines the fabrication and assembly of the BactoBot prototype.
 
 ### 1. Component Fabrication
--   **3D Printing:** Using the files in `/CAD`, print all structural components(frames, motor cannister assmeblies, flagellar hooks). **PETG** is recommended.
+-   **3D Printing:** Using the files in `/CAD`, print all structural components (frames, motor cannister assmeblies, flagellar hooks). **PETG** is recommended.
 -   **Silicone Molding:** Cast **12 flexible flagella** using the 3D-printed molds. Remember to embed a rigid `Hook` at the base of each arm before the silicone cures.
 -   **Laser Cutting:** Cut **12 hexagonal faceplates** from 3mm acrylic sheet. Include 2 racks to hold the electronics inside the structure.
 
